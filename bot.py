@@ -33,6 +33,6 @@ class Jarvis(Client):
 			
 		self.markAsDelivered(author_id,thread_id)
 			
-client=Jarvis('03322399871','pakistan1210')
+client=Jarvis('Your Email','Your Password')
 client.listen()
 		
